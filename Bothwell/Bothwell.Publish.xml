@@ -1,2 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<publishData />
+<publishData>
+  <publishProfile publishUrl="ftp://bothwell.ansible.ca/bothwell.ansible.ca/" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="saskhack" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/ServiceStack.Interfaces.xml" publishTime="12/01/2011 15:51:01" />
+    <file relUrl="bin/ServiceStack.ServiceInterface.dll" publishTime="12/01/2011 15:51:01" />
+    <file relUrl="bin/log4net.xml" publishTime="12/02/2011 11:23:14" />
+    <file relUrl="bin/mysql.data.dll" publishTime="12/01/2011 18:46:27" />
+    <file relUrl="Global.asax" publishTime="12/02/2011 09:41:39" />
+    <file relUrl="Site.Master" publishTime="12/02/2011 12:30:20" />
+    <file relUrl="bin/NHibernate.ByteCode.Castle.xml" publishTime="12/02/2011 11:23:14" />
+    <file relUrl="bin/log4net.dll" publishTime="12/02/2011 11:23:14" />
+    <file relUrl="bin/ServiceStack.Common.dll" publishTime="12/01/2011 15:51:01" />
+    <file relUrl="bin/Castle.DynamicProxy2.dll" publishTime="12/02/2011 11:23:14" />
+    <file relUrl="bin/NHibernate.ByteCode.Castle.dll" publishTime="12/02/2011 11:23:14" />
+    <file relUrl="bin/Iesi.Collections.dll" publishTime="12/02/2011 11:23:14" />
+    <file relUrl="bin/FluentNHibernate.xml" publishTime="12/02/2011 11:23:14" />
+    <file relUrl="bin/ServiceStack.Interfaces.dll" publishTime="12/01/2011 15:51:02" />
+    <file relUrl="bin/Castle.Core.dll" publishTime="12/02/2011 11:23:13" />
+    <file relUrl="bin/Castle.Core.xml" publishTime="12/02/2011 11:23:14" />
+    <file relUrl="Default.aspx" publishTime="12/02/2011 12:29:41" />
+    <file relUrl="bin/Castle.DynamicProxy2.xml" publishTime="12/02/2011 11:23:14" />
+    <file relUrl="bin/ServiceStack.Text.xml" publishTime="12/01/2011 15:51:01" />
+    <file relUrl="bin/ServiceStack.Common.xml" publishTime="12/01/2011 15:51:01" />
+    <file relUrl="bin/ServiceStack.xml" publishTime="12/01/2011 15:51:01" />
+    <file relUrl="bin/Iesi.Collections.xml" publishTime="12/02/2011 11:23:14" />
+    <file relUrl="Scripts/json2-min.js" publishTime="12/02/2011 11:14:01" />
+    <file relUrl="bin/ServiceStack.dll" publishTime="12/01/2011 15:51:02" />
+    <file relUrl="bin/Bothwell.dll" publishTime="12/02/2011 13:12:45" />
+    <file relUrl="Web.config" publishTime="12/02/2011 13:12:48" />
+    <file relUrl="Scripts/bothwell.js" publishTime="12/02/2011 10:48:49" />
+    <file relUrl="bin/FluentNHibernate.dll" publishTime="12/02/2011 11:23:14" />
+    <file relUrl="Styles/Site.css" publishTime="12/02/2011 12:20:26" />
+    <file relUrl="bin/Antlr3.Runtime.dll" publishTime="12/02/2011 11:23:13" />
+    <file relUrl="bin/NHibernate.xml" publishTime="12/02/2011 11:23:15" />
+    <file relUrl="bin/ServiceStack.Text.dll" publishTime="12/01/2011 15:51:01" />
+    <file relUrl="bin/NHibernate.dll" publishTime="12/02/2011 11:23:14" />
+    <file relUrl="API/Web.config" publishTime="12/02/2011 09:52:40" />
+  </publishProfile>
+</publishData>
