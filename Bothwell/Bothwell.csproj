@@ -127,8 +127,8 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="ORM\BothwellOrmHost.cs" />
-    <Compile Include="ORM\Entity\Employee.cs" />
-    <Compile Include="ORM\Mapping\EmployeeMap.cs" />
+    <Compile Include="ORM\Entity\Representative.cs" />
+    <Compile Include="ORM\Mapping\RepresentativeMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
